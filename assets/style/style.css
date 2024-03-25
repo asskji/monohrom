@@ -1,0 +1,804 @@
+@import url("./fonts.css");
+*{
+    padding: 0;
+    border: none;
+    text-decoration: none;
+    margin: 0;
+    box-sizing: border-box;
+    outline: none;
+    font-family: "Manrope";
+}
+.container{
+    width: 1200px;
+    margin: 0 auto;
+}
+.slider-1 .container .intro{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 20px;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-bottom: 20px;
+}
+.slider-1 .container .intro a{
+    color: #000;
+}
+.slider-1 .container h3{
+    margin-right: 35%;
+    margin-left: 35%;
+}
+.slider-7 .container .blok6 .colonki2 .yyy2{
+    margin-left: 5%;
+}
+.slider-2 .container .text{
+    display: flex;
+    flex-direction: row;
+    margin-left: 35%;
+    margin-top: 10px;
+    padding-bottom: 10px;
+}
+.slider-2 .container a{
+    color: #000;
+}
+.slider-2 .container .ic1{
+    margin-right: 3%;
+}
+.slider-2 .container .ic2{
+    margin-right: 3%;
+}
+.slider-2 .container .ic3{
+    margin-right: 3%;
+}
+.slider-2 .container .ic4{
+    margin-right: 3%;
+}
+.slider-2 .container{
+    width: 100%;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+}
+.slider-3 .container .blok2 .zagl h1{
+    font-size: 140px;
+}
+.slider-3 .container .blok2 .nad{
+    display: flex;
+    flex-direction: row;
+}
+.slider-3 .container .blok2 .nad p{
+    margin-top: 90px;
+    margin-left: 4%;
+    font-size: 15px;
+}
+.slider-3 .container .blok2 .pict0{
+    display: flex;
+    flex-direction: row;
+    width: 50%;
+}
+.slider-3 .container .blok2 .img1{
+    margin-top: 20px;
+    margin-bottom: 70px;
+}
+.slider-3 .container .blok2 .img2{
+    padding-left: 55px;
+    margin-top: 20px;
+    margin-bottom: 70px;
+}
+.slider-4 .container .blok3 .zagl2{
+    font-size: 30px;
+}
+.slider-4 .container .blok3 .blocpict{
+    display: flex;
+    flex-direction: row;
+    margin-top: 60px;
+}
+.slider-4 .container .blok3 .blocpict .pict1{
+    margin-right: 50px;
+}
+.slider-4 .container .blok3 .blocpict .pict2{
+    margin-right: 50px;
+}
+.slider-4 .container .blok3 .podpis1{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 90px;
+    margin-top: 15px;
+}
+.slider-4 .container .blok3 .podpis1 p{
+    font-size: 20px;
+}
+.slider-4 .container .blok3 .podpis1 .nazv1{
+    margin-right: 26%;
+}
+.slider-4 .container .blok3 .podpis1 .nazv2{
+    margin-right: 26%;
+}
+.slider-5 .container{
+    background-image: url(../img/6.jpg);
+    height: 700px;
+}
+.slider-5 .container .blok4 {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+    color: #ffffff;
+}
+.slider-5 .container .blok4 .zagl3{
+    font-size: 30px;
+    margin-bottom: 20px;
+    padding-top: 100px;
+    color: #ffffff;
+}
+.slider-5 .container .blok4 .podpis p{
+    font-size: 20px;
+}
+.slider-5 .container .blok4 .button-auth{
+    padding: 10px 30px;
+    width: 20% ;
+    border: 2px solid rgb(255, 255, 255);
+    background-color: #ffffff;
+    margin-top: 20px;
+    margin-left: 41%;
+    cursor: pointer;
+}
+.slider-6 .container .blok5{
+    margin-top: 90px;
+}
+.slider-6 .container .blok5 h1{
+    font-size: 50px;
+}
+.slider-6 .container .blok5 .zagl4{
+    margin-left: 30%;
+}
+.slider-6 .container .blok5 .blocpict2{
+    display: flex;
+    flex-direction: column;
+}
+.slider-6 .container .vse{
+    display: flex;
+    flex-direction: row;
+    margin-top: 20px;
+    justify-content: space-between;
+
+}
+.slider-6 .container .vse p{
+    font-size: 20px;
+}
+.slider-6 .container .vse .colum2{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.slider-7 .container .blok6 .colonki1 img{
+    width: 500px;
+}
+.slider-7 .container .blok6{
+    display: flex;
+    flex-direction: row;
+}
+.slider-7 .container .blok6 .podpis3{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    font-size: 25px;
+    width: 99%;
+}
+.slider-7 .container .blok6{
+    padding-top: 20px;
+    padding-bottom: 45px;
+}
+.slider-7 .container .blok6 h1{
+    font-size: 55px;
+}
+.slider-7 .container .blok6 .podpis3 p1{
+    font-size: 15px;
+    margin-bottom: 15px;
+    margin-right: -650px;
+}
+.slider-7 .container .blok6 .colonki2{
+    margin-left: 10%;
+    width: 100%;
+}
+.slider-7 .container .blok6 .colonki2 p{
+    font-size: 15px;
+}
+.slider-7 .container .blok6 .colonki2 .podpis2{
+    font-size: 25px;
+    margin-bottom: 25px;
+    margin-top: 25px;
+}
+.slider-7 .container .blok6 .colonki2 .cena{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    font-size: 45px;
+    margin-top: 20px;
+}
+.slider-7 .container .blok6 .colonki2 .opisan{
+    display: flex;
+    flex-direction: row;
+    margin-top: 15px;
+    border-bottom: 1.5px solid #000000;
+    width: 48%;
+    padding-bottom: 10px;
+}
+.slider-7 .container .blok6 .colonki2 .lololo{
+    margin-top: 20px;
+    font-size: 15px;
+}
+.slider-7 .container .blok6 .colonki2 .opisan p1{
+    margin-right: 20px;
+    font-size: 20px;
+}
+.slider-7 .container .blok6 .colonki2 .opisan p2{
+    margin-right: 20px;
+    font-size: 20px;
+}
+.slider-7 .container .blok6 .colonki2 .opisan p3{
+    font-size: 20px;
+}
+.slider-7 .container .blok6 .colonki2 .yyy{
+    height: 50px;
+    width: 57%;
+    text-align: center;
+    border: 2px solid #000000;
+    font-size: 15px;
+    margin-left: 33px;
+    margin-top: 29px;
+}
+.slider-7 .container .blok6 .colonki2 .yyy2{
+    height: 50px;
+    width: 100%;
+    text-align: center;
+    border: 2px solid #000000;
+    font-size: 15px;
+    margin-top: 35px;
+    margin-left: -6px;
+}
+.slider-7 .container .blok6 .colonki2 .yyy2 .input-auth{
+    text-align: center;
+    font-size: 15px;
+    margin-top: 13px;
+}
+.slider-7 .container .blok6 .colonki2 .yyy .input-auth{
+    text-align: center;
+    font-size: 15px;
+    margin-top: 13px;
+}
+.slider-7 .container .blok6 .button-auth2{
+    padding: 20px 20px;
+    width: 100% ;
+    border: 2px solid rgb(0, 0, 0);
+    background-color: #000000;
+    margin-top: 20px;
+    cursor: pointer;
+    color: #ffffff;
+}
+.slider-7 .container .blok6 .colonki2 .oop{
+    display: flex;
+    flex-direction: row;
+}
+.slider-7 .container .blok6{
+    margin-top: 50px;
+}
+.slider-8 .container .blok7{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    color: #ffffff;
+    background-color: #000;
+    margin-top: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+.slider-8 .container .blok7 i{
+    margin-bottom: 20px;
+}
+.slider-8 .container .blok7 .zzz{
+    margin-bottom: 10px;
+}
+.slider-9 .container .blok8{
+    display: flex;
+    margin-top: 7%;
+    margin-bottom: 7%;
+}
+.slider-9 .container .blok8 .levo img{
+    margin-left: 10%;
+}
+.slider-9 .container .blok8 .pravo{
+    margin-left: 15%;
+}
+.slider-9 .container .blok8 .pravo h1{
+    font-size: 60px;
+    margin-bottom: 50px;
+    margin-top: 20%;
+}
+.slider-9 .container .blok8 .pravo p{
+    font-size: 20px;
+}
+.slider-9 .container .blok8 .pravo .x2{
+    margin-top: 30px;
+    font-size: 20px;
+}
+.slider-10 .container .blok9{
+    margin-top: 25px;
+    background-color: #000000;
+    color: #ffffff;
+}
+.slider-10 .container .blok9{
+    display: flex;
+    flex-direction: row;
+}
+.slider-10 .container .blok9 .levo2{
+    margin-left: -120%;
+    margin-top: 180px;
+    width: 40%;
+}
+.slider-10 .container .blok9 h1{
+    font-size: 40px;
+    width: 100%;
+}
+.slider-10 .container .blok9 .levo2 p{
+    font-size: 15px;
+    margin-bottom: 20px;
+    margin-left: 25px
+}
+.slider-10 .container .blok9 .levo2 img{
+    width: 500px;
+    margin-left: 25px
+    
+}
+.slider-10 .container .blok9 .zagl8{
+    margin-top: 50px;
+    margin-left: -95px;
+    width: 100%;
+}
+.slider-10 .container .blok9 .zagl7{
+    margin-left: 10px;
+}
+.slider-10 .container .blok9 .pravo2{
+    margin-top: 150px;
+    margin-left: 130px;
+}
+.slider-10 .container .blok9 .pravo2 .lol{
+    font-size: 15px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+.slider-10 .container .blok9 .pravo2 p{
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.slider-10 .container .blok9 .pravo2 .input-auth{
+    height: 40px;
+    width: 90%;
+    text-align: center;
+    color: #ffffff;
+    background-color: #000000;
+    border: 1px solid #ffffff;
+    cursor: pointer;
+}
+.slider-10 .container .blok9 .pravo2 .pnkt{
+    margin-bottom: 25px;
+    font-size: 15px;
+    cursor: pointer;
+}
+.slider-10 .container .blok9 .pravo2 .button-auth3{
+    width: 90%;
+    margin-top: 30px;
+    height: 60px;
+    margin-bottom: 70px;
+    cursor: pointer;;
+}
+.slider-11 .container .blok10{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    border-top: 2px solid #ffffff;
+    background-color: #000000;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-style: 15px;
+    color: #ffffff;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.container{
+    width: 1200px;
+}
+@media (max-width: 1200px) {
+    .container{
+        width: 1140px;
+    }
+    .slider-5 .container {
+        background-image: url(/assets/img/6.jpg);
+        height: 700px;
+        width: 1200px;
+    }
+    .slider-7 .container .blok6 .colonki2 .yyy2{
+        margin-left: 2%;
+        width: 98%;
+    }
+    .slider-7 .container .blok6 .podpis3 p1{
+        margin-left: -100px;
+    }
+    .slider-3 .container .blok2 .img2{
+        margin-left: -40px
+    }
+    .slider-3 .container .blok2 .img1{
+        margin-left: -10px;
+    }
+    .slider-4 .container .blok3 .blocpict img{
+        width: 100%;
+    }
+    .slider-7 .container .blok6 .colonki2 .cena{
+        font-size: 45px;
+    }
+    .slider-2 .container .text{
+        margin-left: 30%;
+    }
+}
+@media (max-width: 992px) {
+    .container{
+        width: 960px;
+    }
+    .slider-7 .container .blok6 .colonki2 .yyy2{
+        margin-left: -2%;
+    }
+    .slider-3 .container .blok2 .img1{
+        width: 100px;
+    }
+    .slider-3 .container .blok2 .img2{
+        width: 300px;
+    }
+    .slider-10 .container .blok9 .pravo2 .input-auth{
+        width: 90%;
+    }
+    .slider-10 .container .blok9 .pravo2 .button-auth3{
+        width: 90%;
+    }
+    .slider-10 .container .blok9 .levo2 p{
+        margin-left: -290px;
+    }
+    .slider-10 .container .blok9 .levo2 img{
+        margin-left: -290px;
+    }
+    .slider-10 .container .blok9 h1{
+        margin-left: 30px;
+    }
+    .slider-6 .container .vse .colum1 img{
+        width: 300px;
+    }
+    .slider-6 .container .vse .colum2 img{
+        width: 300px;
+    }
+    .slider-6 .container .vse .colum4 img{
+        width: 300px;
+    }
+    .slider-5 .container{
+        width: 990px;
+    }
+    .slider-7 .container .blok6 .podpis3 p1{
+        margin-left: -410px;
+    }
+    .slider-7 .container .blok6 .colonki2 .yyy2{
+        width: 100%;
+    }
+    .slider-3 .container .blok2 .zagl h1{
+        font-size: 120px;
+    }
+    .slider-3 .container .blok2 .pict0 .img1 img{
+        width: 700px;
+    }
+    .slider-3 .container .blok2 .pict0 .img2 img{
+        width: 220px;
+        margin-left: 620px;
+    }
+    .slider-3 .container .blok2 .nad p{
+        margin-top: 45px;
+    }
+    .slider-2 .container .text{
+        margin-left: 30%;
+    }
+    .slider-7 .container .blok6 .colonki2 .cena{
+        font-size: 31px;
+        margin-top: 35px;
+    }
+    .slider-10 .container .blok9 .levo2{
+        margin-top: 190px;
+    }
+    .slider-10 .container .blok9 .pravo2{
+        margin-left: 10px;
+    }
+    .slider-10 .container .blok9 .zagl8{
+        width: 100%;
+    }
+    .slider-10 .container .blok9 .zagl7{
+        width: 50%;
+    }
+}
+@media (max-width: 768px) {
+    .container{
+        width:  740px;
+    }
+    .slider-10 .container .blok9 .levo2 p{
+        font-size: 15px;
+        margin-left: -210px;
+    }
+    .slider-1 .container h3{
+        margin-left: 25%;
+        margin-right: 25%;
+    }
+    .slider-10 .container .blok9 .levo2 img{
+        width: 400px;
+        margin-left: -210px;
+    }
+    .slider-10 .container .blok9 h1{
+        font-size: 40px;
+    }
+    .slider-10 .container .blok9 .pravo2 p{
+        font-size: 15px;
+    }
+    .slider-11 .container .blok10 p{
+        font-size: 10px;
+    }
+    .slider-9 .container .blok8 .levo img{
+        width: 300px;
+    }
+    .slider-9 .container .blok8 .pravo p{
+        font-size: 15px;
+    }
+    .slider-9 .container .blok8 .pravo .x2{
+        font-size: 15px;
+    }
+    .slider-9 .container .blok8 .pravo{
+        margin-left: 10%;
+    }
+    .slider-7 .container .blok6{
+        display: flex;
+        flex-direction: column;
+    }
+    .slider-2 .container .text{
+        margin-left: 25%;
+    }
+    .slider-7 .container .blok6 .colonki1 img{
+        margin-left: 25%;
+        width: 400px;
+    }
+    .slider-7 .container .blok6 .colonki2 .yyy2{
+        width: 90%;
+        margin-left: 5%;
+        margin-top: -10px;
+    }
+    .slider-8 .container .blok7 .zzz{
+        font-size: 15px;
+    }
+    .slider-8 .container .blok7  p{
+        font-size: 12px;
+    }
+    .slider-7 .container .blok6 .colonki2 .popp p{
+       margin-bottom: 25px;
+       width: 20%;
+       margin-left: 75%;
+    }
+    .slider-7 .container .blok6 .podpis3 p{
+        margin-bottom: -10px;
+        margin-left: -40px;
+        width: 10%;
+    }
+    .slider-7 .container .blok6 .colonki2 .opisan {
+        margin-left: 5%;
+    }
+    .slider-7 .container .blok6 .button-auth2{
+        width: 90%;
+    }
+    .slider-7 .container .blok6 .colonki2{
+        margin-left: 1%;
+        text-align: center;
+    }
+    .slider-7 .container .blok6 .colonki2 .oop{
+        margin-left: 10%;
+    }
+    .slider-7 .container .blok6 .podpis3{
+        margin-left: 10%;
+    }
+    .slider-5 .container{
+        width: 765px;
+    }
+    .slider-5 .container .blok4 .button-auth{
+        width: 30%;
+    }
+    .slider-5 .container .blok4 .podpis p{
+        font-style: 15px;
+    }
+    .slider-6 .container .vse .colum1 img{
+        width: 250px;
+    }
+    .slider-6 .container .vse .colum2 img{
+        width: 250px;
+    }
+    .slider-6 .container .vse .colum4 img{
+        width: 250px;
+    }
+    .slider-3 .container .blok2 .pict0 .img1 img{
+        width: 550px;
+    }
+    .slider-3 .container .blok2 .pict0 .img2 img{
+        width: 170px;
+        margin-left: 190%;
+    }
+    .slider-3 .container .blok2 .zagl h1{
+        font-size: 80px;
+        margin-top: 10px;
+    }
+}
+
+@media (max-width: 576px) {
+    .container{
+        width:  98%;
+    }
+    .slider-10 .container .blok9{
+        display: flex;
+        flex-direction: column;
+    }
+    .slider-10 .container .blok9 h1{
+        margin-left: 45%;
+    }
+    .slider-10 .container .blok9 .levo2{
+        margin-left: 50%;
+        margin-top: 30px;
+    }
+    .slider-10 .container .blok9 .levo2 p{
+        font-size: 20px;
+    }
+    .slider-10 .container .blok9 .levo2 img{
+        width: 450px;
+    }
+    .slider-10 .container .blok9 .pravo2{
+        margin-top: 5%;
+        margin-left: 6%;
+    }
+    .slider-10 .container .blok9 h1{
+        font-size: 25px;
+        width: 100%;
+    }
+    .slider-10 .container .blok9 .zagl8{
+        margin-top: 7px;
+        margin-left: -8px;
+    }
+    .slider-9 .container .blok8 .levo img{
+        width: 250px;
+    }
+    .slider-9 .container .blok8 .pravo h1{
+        font-size: 30px;
+        margin-top: -10px;
+        margin-bottom: 20px;
+    }
+    .slider-9 .container .blok8 .pravo p{
+        margin-top: -10px;
+    }
+    .slider-8 .container .blok7 p{
+        font-size: 10px;
+    }
+    .slider-7 .container .blok6 .colonki2 .podpis2{
+        font-size: 20px;
+    }
+    .slider-7 .container .blok6 .podpis3{
+        width: 10%;
+    }
+    .slider-7 .container .blok6 .podpis3 p{
+        font-size: 10px;
+        margin-bottom: -5px;
+        margin-left: 5%;
+    }
+    .slider-6 .container .vse .colum1 img{
+        width: 150px;
+    }
+    .slider-6 .container .vse .colum2 img{
+        width: 150px;
+    }
+    .slider-5 .container{
+        width: 574px;
+    }
+    .slider-5 .container .blok4 .zagl3 h1{
+        font-size: 25px;
+    }
+    .slider-5 .container .blok4 .podpis p{
+        font-size: 15px;
+    }
+    .slider-5 .container .blok4 .button-auth{
+        width: 30%;
+        font-size: 10px;
+        margin-left: 35%;
+    }
+    .slider-6 .container .vse .colum4 img{
+        width: 150px;
+    }
+    .slider-4 .container .blok3 .zagl2{
+        font-size: 25px;
+    }
+    .slider-3 .container .blok2 .pict0 .img1 img{
+        width: 400px;
+    }
+    .slider-3 .container .blok2 .pict0 .img2 img{
+        width: 125px;
+        margin-left: 180%;
+    }
+    .slider-2 .container .text{
+        margin-left: 15%;
+    }
+    .slider-3 .container .blok2 .zagl h1{
+        font-size: 70px;
+    }
+    .slider-3 .container .blok2 .nad p{
+        font-size: 13px;
+    }
+    .slider-1 .container h3{
+        margin-left: 10%;
+        margin-right: 10%;
+    }
+    .slider-7 .container .blok6 .colonki1 img{
+        margin-left: 15%;
+    }
+    .slider-7 .container .blok6 .colonki2 .popp p{
+        font-size: 10px;
+    }
+}
+@media (max-width: 480px) {
+    .container{
+        width:  98%;
+    }
+    .slider-10 .container .blok9 .levo2 img{
+        width: 400px;
+    }
+    .slider-9 .container .blok8 .pravo p{
+        font-size: 11px;
+    }
+    .slider-9 .container .blok8 .pravo .x2{
+        font-size: 11px;
+    }
+    .slider-7 .container .blok6 .colonki1 img{
+        margin-left: 10%;
+    }
+    .slider-5 .container{
+        width: 475px;
+    }
+    .slider-6 .container .blok5 h1{
+        font-size: 32px;
+    }
+    .slider-5 .container .blok4 .button-auth{
+        width: 40%;
+        margin-left: 150px;
+    }
+    .slider-4 .container .blok3 .zagl2{
+        font-size: 20px;
+    }
+    .slider-3 .container .blok2 .pict0 .img1 img{
+        width: 350px;
+    }
+    .slider-3 .container .blok2 .pict0 .img2 img{
+        width: 110px;
+        margin-left: 190%;
+    }
+    .slider-3 .container .blok2 .nad{
+        display: flex;
+        flex-direction: column;
+    }
+    .slider-3 .container .blok2 .nad p{
+        margin-top: -10px;
+        margin-left: 3px;
+    }
+    .slider-2 .container .text{
+        margin-left: 15%;
+        font-size: 13px;
+    }
+    .slider-4 .container .blok3 .podpis1 p{
+        font-size: 12px;
+        margin-top: -3px;
+        margin-bottom: -25px;
+    }
+}
